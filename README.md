@@ -1,2 +1,3 @@
-# Numpy_and_Pandas
-Numpy and Pandas Operations and Techniques
+# Numpy 🔢 and Pandas 🐼
+<p>Concepts and Techniques</p>
+
